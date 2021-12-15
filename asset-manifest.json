@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/threejs-starter/static/css/main.2136b826.css",
+    "main.js": "/threejs-starter/static/js/main.90842385.js",
+    "index.html": "/threejs-starter/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2136b826.css",
+    "static/js/main.90842385.js"
+  ]
+}
